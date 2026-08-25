@@ -1,6 +1,6 @@
 # Saniyah Wilson – Design Portfolio
 
-![Banner](collage_3x1.png)  
+![Banner](collage_3x1_(1).png)  
   
   
 > **A Mechanical Engineering student led by curiousity**
