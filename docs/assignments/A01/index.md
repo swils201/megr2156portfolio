@@ -15,8 +15,18 @@ Portfolio 2 -
 
 **Product Analysis**
 - Source: https://patents.google.com/patent/US9340061B2/en
+*Primary Function:*&nbsp;&nbsp; The mechanical pencil receives lead through a shifting reservoir held by a spring within the main barrel which is connected to a push button mechanism allowing lead to pass through the clutch when pushed and grips the lead in its new position while resetting the reservoir when released.
 
+*Governing Principles:*  
+&nbsp;&nbsp;&nbsp;The driving forces of the mechanisms behind this pencil are the concepts of pushing force, Hooke's Law, and frictional force. To initiate the lead advancement mechanism, users must input a pushing force to the button attached to the end of the barrel, typically fitted with a removable eraser. In other words, initiation of product use overall relies on Newton's Second (F-net = ma) and Third laws to cause motion and reaction of the force within the barrel triggering reservoir and clutch shifting; both laws assuming all parts to be rigid. In the Second law, F-net is the total force, m is the mass, and a is acceleration. This motion causes an opening and closing of the clutch jaws which surround lead, once in proper placement, as button is released as well.
+&nbsp;&nbsp;&nbsp;In this shifting of force, the spring at the bottom of the reservoir is displaced, using Hooke's Law (F = -kx). Within this law, F is the restoring force that will re-expand the spring, k is the spring constant, and x is the displacement. This re-expansion shifts the reservoir, clutch, and button back into original placement after usage. The mechanism assumes the spring compresses linearly with the user's force.
+&nbsp;&nbsp;&nbsp; Once lead is in place, while the button is pushed, the shift of the clutch jaws downward advance lead towards the tip and then release led entirely. Once released the clutch regrips the lead in its new position. This grip relies on Static Friction (F = μ N) to avoid lead damage and hold it in place. In this equation, F = static friction force, μ = coefficient of static friction, and N = normal force. This assumes lead is being restricted primarily by this force.
 
+*Personal Investigation* 
+<img src="IMG 0398.jpeg" alt="BIC mechanical pencil" width="300">
+*Patent Details:*
+**Inventor:** Franck Rolion, Ludovic Fagu
+**Patent Number:** US9340061B2
 ## Decide
 
 ## Communicate
