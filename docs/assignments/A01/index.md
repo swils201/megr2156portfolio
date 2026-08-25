@@ -59,7 +59,19 @@ The spring is held within the barrel, surrounding the chuck just below the tight
 *Original Design Decision*
 The inventor used a more flexible plastic for the chuck mechanism than seen throughout the rest of the design. The driving force behind this seems to be the prevention of failure with constant motion of the bisected parts and force of the tightening ring.
 
-## Decide
+## Decide  
+  
+**Homepage Identity**  
+  
+For my homepage, I prioritized showcasing my education and expert level product displays from engineering inspirations of mine with quick access to different portions of the About Me page. Under this quick access hub, I've set links to navigate directly to my personal description, projects, and contact information. This is to create ease of use to users who want to know my specific realms of proficiency and prevent lost sections as that page grows in the future.  
+
+**Intentional Customization**  
+  
+One of the intentional customizations I made was to adjust the color scheme of the site. In my About Me description, I detail my interest in the connection between beauty and functionality. Adjusting the color scheme to Indigo was a way of using a small detail to showcase that while keeping the contrast high enough to keep information readable.  
+  
+**Documentation Standard**   
+
+> *I intend to document all assignments as a future employer may expect: meeting the set objectives and returning work in an organized, clear to read manner.*  
 
 ## Communicate
 
