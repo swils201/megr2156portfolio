@@ -1,6 +1,6 @@
 # Saniyah Wilson – Design Portfolio
 
-![Banner](collage_3x1_(1).png)  
+![Banner](collage_3x1_(2).png)  
   
   
 > **A Mechanical Engineering student led by curiousity**
@@ -11,13 +11,14 @@ Hi, I am Saniyah Wilson, a third-year Mechanical Engineering Major at UNC Charlo
   
 - **[About Me](aboutme/index.md#about-me)**
 
-    
+     
 - **[Projects](aboutme/index.md#projects)**
 
    
 - **[Contact Me](aboutme/index.md#contact-me)**
   
 
-
-
-By A11, every design decision you defend should trace back to something you analyzed and communicated earlier in this site.
+## Banner Sources  
+- **Olaf Animatronic Blueprint:** https://arxiv.org/html/2512.16705v1/figures/olaf_section_view_v2.png
+- **Engineer and Artist Remo Saraceni:** https://arxiv.org/html/2512.16705v1/figures/olaf_section_view_v2.png
+- **Engineer James Dyson:** https://www.mk.co.kr/en/business/11327067
