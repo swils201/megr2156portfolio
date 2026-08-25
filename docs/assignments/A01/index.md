@@ -26,25 +26,25 @@ Portfolio 2 -
   
 **Barrel and Reservoir:**  
 <img src="Barrel.jpeg" alt="Barrel and Reservoir" width="300">  
-&nbsp;&nbsp;&nbsp
+&nbsp;&nbsp;&nbsp;
 The barrel allows the user to grip onto the pencil while the more narrow and tapered reservoir sits within it. The diameter difference allows the reservoir to shift within the barrel without contacting the walls, preventing unnecessary friction. Instilling a tapered end, towards the tip component of the pencil, allows the lead to follow a path towards the chuck when the button mechanism is used.  
   
 **Push Button**  
 <img src="PushButton.jpeg" alt="Push Button fitted with cylindrical eraser." width="300">  
-&nbsp;&nbsp;&nbsp
+&nbsp;&nbsp;&nbsp;
 The push button is fixed onto the reservoir with a nearly equivalent external diameter to the barrel, creating a barrier for the force applied to it, and limiting the consequential motion caused by it. The hollow shape fitted with the eraser functions as the channel for the input of lead into the reservoir and the eraser acts as the seal to it. At the point of attachment of button to reservoir, the internal diameter is made to match that of the chamber. This specific geometry is necessary to ensure the tightening ring and chuck remain contained within the tip through motion while still allowing surface area for applied force to drive internal mechanisms and access to the reservoir.  After initial introduction of lead, the button must be pushed to allow it to enter the chuck.
 **Tightening Ring & Chuck**  
 <img src="Clutch+Chuck.jpeg" alt="Tightening Ring & Chuck" width="300">  
-&nbsp;&nbsp;&nbsp
+&nbsp;&nbsp;&nbsp;
 The chuck is a tapered bisected piece of plastic with a hole connecting to the reservoir held tight by the tightening ring that surrounds it and is held on by the chucks flared rim . The taper transitions the internal components function from storage to lead isolation and advancement. When the button is released, the tightening ring constricts the plastic, using friction to prevent the lead from slipping. The ring is dimensioned to catch before the very tip of the pencil, allowing the chuck to split at the bisection, and releasing the lead so it may advance. When the button is pushed, the ring and chuck shift together towards the end of the tip component, where the diameter dimension of the ring will align eventually with that of the tip, catching, and allowing the chuck to split at the bisection. This releases the lead so it may advance.
 
 **Tip**  
 <img src="Tip.jpeg" alt="Tip" width="300">  
-&nbsp;&nbsp;&nbsp
+&nbsp;&nbsp;&nbsp;
 The tip is a cone shaped plastic piece which acts as the source of output lead and the mechanism to allow the chuck to open. This cone shape allows the diameter to shrink until reaching the diameter of the lead, giving the tightening ring a surface of resistance. The extension of this smaller diameter at the end provides structural stability to the lead as the pencil is in use.
 **Spring**  
 <img src="Spring.jpeg" alt="Spring" width="300">  
-&nbsp;&nbsp;&nbsp
+&nbsp;&nbsp;&nbsp;
 The spring is held within the barrel, surrounding the chuck just below the tightening ring. This helix structure allows compression and expansion that translates the external force applied to internal component motion.  
   
 *Patent Details:*
