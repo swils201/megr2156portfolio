@@ -1,4 +1,4 @@
-# A1 – [Topic]
+# A1 – Build Your Professional Portfolio
 
 ## Objective
 - Demonstrate engineering competency and professionalism through portfolio and product analysis, portfolio creation, and professional reflection.
@@ -41,7 +41,8 @@ The chuck is a tapered bisected piece of plastic with a hole connecting to the r
 **Tip**  
 <img src="Tip.jpeg" alt="Tip" width="300">  
 &nbsp;&nbsp;&nbsp;
-The tip is a cone shaped plastic piece which acts as the source of output lead and the mechanism to allow the chuck to open. This cone shape allows the diameter to shrink until reaching the diameter of the lead, giving the tightening ring a surface of resistance. The extension of this smaller diameter at the end provides structural stability to the lead as the pencil is in use.
+The tip is a cone shaped plastic piece which acts as the source of output lead and the mechanism to allow the chuck to open. This cone shape allows the diameter to shrink until reaching the diameter of the lead, giving the tightening ring a surface of resistance. The extension of this smaller diameter at the end provides structural stability to the lead as the pencil is in use.  
+  
 **Spring**  
 <img src="Spring.jpeg" alt="Spring" width="300">  
 &nbsp;&nbsp;&nbsp;
