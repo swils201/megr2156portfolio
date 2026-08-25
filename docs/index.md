@@ -1,11 +1,20 @@
 # Saniyah Wilson – Design Portfolio
 
 ![Banner](collage_3x1.png)  
-
-
-> **Engineering is the art of making decisions you can defend.**
-
-## The three pillars
+  
+  
+> **A Mechanical Engineering student led by curiousity**
+  
+Hi, I am Saniyah Wilson, a third-year Mechanical Engineering Major at UNC Charlotte, primarily interested in the mechanical components driving home and entertainment product design. In May 2026, I received both an Associates in Science and Engineering, providing a diverse foundation to continue my education and enter the workforce.
+   
+## Portfolio Navigation Hub  
+---
+- **[About Me](aboutme/index.md#about-me)**
+    
+- **[Projects](aboutme/index.md#projects)**
+  
+- **[Contact Me](aboutme/index.md#contact-me)**
+  
 
 Most assignment pages are organized around:
 
