@@ -1,4 +1,4 @@
-<img width="1533" height="782" alt="image" src="https://github.com/user-attachments/assets/21918f5d-4856-4810-ae31-476c2883f582" /># A2 – Truss Stress Analysis
+# A2 – Truss Stress Analysis
 
 ## Objective  
 - Design a lightweight planar truss using A500 steel or an alternative material.  
@@ -35,17 +35,21 @@ To find these values, I first determined the unknowns and knowns. It's within th
 <img src="JA.png" width="50%">
 
   
-Once the maximum internal force was determined, found to be Force DE, the safety factor and yield strength of the A500 steel can be used to find the minimum surface area of each beam. After identifying given and needed information, I sketched a generalized Stress-Strain graph to visualize the specific goals of this objective. Then using the relationships between stress, yield, and area, the minimum area was found algebraically and numerically. ***Missing explanation abt beam weights   
+Once the maximum internal force was determined, found to be Force DE, the safety factor and yield strength of the A500 steel can be used to find the minimum surface area of each beam. After identifying given and needed information, I sketched a generalized Stress-Strain graph to visualize the specific goals of this objective. Then using the relationships between stress, yield, and area, the minimum area was found algebraically and numerically.  
    
    
-  
+
+<insert beam weight work>
+To find the weight of the beams I considered as far as points were separated a single beam and paired equivalent beams together for calculation for efficiency. Once the length restraints were converted for calculation the weights for members AB, EC and DF, BC and AD, and CD were found using the that minimum area restriction. Here, most notation is presented in black, as algebraical and numerical solving happened simultaneously.  
+
+
+
 <img src="MaxFInt.png" width="50%">
 <img src="ElementFactors.png" width="50%">
 <img src="Elements.png" width="50%">
 
 
 
-***Missing explanation abt beam weights   
 
 
 
@@ -66,11 +70,42 @@ I specifically analyzed off of Pin D to ensure the largest internal force passed
 
 
 
-**Analysis Resources:*
-<insert ss and links>  
+**Analysis Resources:*  
+<img src="A500 Density.png" width="50%">
+
+<img src="Cuemath.png" width="50%">  
+  
 - https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/#Grade_C
 - https://www.cuemath.com/numbers/factors-of-338/ 
 
+To model this truss design, I created a single part within SolidWorks. Before creating solid lines, I created the shape of the truss I designed within the dimension constraints provided using the centerlines. This gave the sketch a continual point of reference for the midpoints of the beams which lay perpendicular to each other. I began with the bottom horizontal beam as the base for my sketch, on the right plane. Once this beam was extruded, the top exposed surface served as the sketch plane for the two vertical beams available. 
+  
+  
+
+<img src="Skeletonn.png" width="50%">  
+<img src="Rect1.png" width="50%">  
+<img src="Beam1Extrude.png" width="50%">  
+<img src="Rect2.png" width="50%">  
+<img src="Beam 2&3.png" width="50%">  
+
+  
+The top surfaces of these vertical beams served as the sketch surface for the larger horizontal truss which sets on top. With the first four beams modeled, the challenge was to connect them in a ready position to be pinned. To accomplish this, different arrangements of relations between lines of the diagonal beams and the rest of the truss were experimented with. Ultimately the best arrangement consisted of perpendicularity to one point of the skeleton and horizontality to the other.  
+
+
+ 
+<img src="MainBeam.png" width="50%">  
+<img src="MainExtrude(2).png" width="50%">  
+<img src="DBeamRelations.png" width="50%">  
+<img src="DBeamDimen.png" width="50%">  
+
+
+
+This pattern was solution was implemented for the other two diagonal beams, completing the stable truss design. To determine the size of the holes needed for the pin, based off of found minimum pin area, I used SensorOne's online Area to Length calculator, which can be found in resources below. Once found I created extruded cuts at all intersections of the beams and created a matching dimensioned cylindrical pin in another part file. Within an assembly file, these parts were fitted to represent the true state the truss would exist in. I chose to wait to change any density values until the end, where I adjusted the material to A36 Steel, as the originally planned A500 material was not available with the CAD platform. After this, I was able to run and collect the weight analysis on the design, provided below as well.
+
+  
+
+<img src="FinalBeams.png" width="50%">   
+<img src="Beam 2&3.png" width="50%">  
 ## Decide  
 
 The geometry of this design was chosen to ensure stability while limiting each area to be equivalent with one another. To meet those constraints, all triangles were made to be at 90 degree angles allowing the Pythagorean theorem and trigonometric identities to be used. These trigonometric identities were key to solving the various internal forces seamless without overspending time calculating specific potential angles between beams. The specific arrangement of these triangles has come about by chance and does not limit this particular design, so it was not considered.   
