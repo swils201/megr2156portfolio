@@ -104,7 +104,7 @@ This pattern was solution was implemented for the other two diagonal beams, comp
 
 <img src="FInalBeams.png" width="50%"> 
 
-**View Model Here!** https://drive.google.com/drive/folders/1a5Zx1QCKdAGShUvQn9if_SUfI2M6UP7H?usp=sharing 
+**View Model Here!** [ https://drive.google.com/drive/folders/1a5Zx1QCKdAGShUvQn9if_SUfI2M6UP7H?usp=sharing](https://drive.google.com/file/d/14ApEUJGHnBGMmO7gC-bbwo_vISWYs3HZ/view?usp=sharing) 
 
 <img src="PinFit.png" width="50%">
 <img src="PinFit(2).png" width="50%">
