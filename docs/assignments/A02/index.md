@@ -1,4 +1,4 @@
-# A2 – Truss Stress Analysis
+<img width="1533" height="782" alt="image" src="https://github.com/user-attachments/assets/21918f5d-4856-4810-ae31-476c2883f582" /># A2 – Truss Stress Analysis
 
 ## Objective  
 - Design a lightweight planar truss using A500 steel or an alternative material.  
@@ -68,7 +68,8 @@ I specifically analyzed off of Pin D to ensure the largest internal force passed
 
 **Analysis Resources:*
 <insert ss and links>  
-
+- https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/#Grade_C
+- https://www.cuemath.com/numbers/factors-of-338/ 
 
 ## Decide  
 
