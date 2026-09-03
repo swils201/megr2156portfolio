@@ -13,7 +13,7 @@
   
   
 ## Analyze  
-<insert design constraints>
+<img src="Final Truss Design.png" width="50%">
   
 To design within the design constraints of this assignment, first I considered how the geometry of the structure could be simplified. For my design, I prioritized the use of right triangles to allow the Pythagorean theorem to be valid for analysis. To determine the structure would hold it's stability I used the stability joint equation provided in the SoDesign Course Materials. (2*[number of joints] = 3 + [number of members]) For these specific design constraints, a stable truss requires 8 members, providing the limits needed to finalize my design. To fully comprehend the requirements of this design, the minimum surface area and weights of all elements, including beams and pins must be found.  
 
