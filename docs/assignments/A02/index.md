@@ -57,7 +57,7 @@ To finish the analysis process, the minimum surface area of each pin must be fou
 
   
 
-<img src="PinD.png" width="50%">
+<img src="PinD .png" width="50%">
 <img src="PinKnowns.png" width="50%">
 
 
@@ -104,8 +104,17 @@ This pattern was solution was implemented for the other two diagonal beams, comp
 
   
 
-<img src="FinalBeams.png" width="50%">   
-<img src="Beam 2&3.png" width="50%">  
+<img src="PinFit.png" width="50%">
+<img src="PinFit(2).png" width="50%">
+<img src="Weight Analysis.png" width="50%">  
+
+
+  
+**Additional Resources:**
+- https://www.sensorsone.com/circle-area-to-diameter-calculator/
+
+
+  
 ## Decide  
 
 The geometry of this design was chosen to ensure stability while limiting each area to be equivalent with one another. To meet those constraints, all triangles were made to be at 90 degree angles allowing the Pythagorean theorem and trigonometric identities to be used. These trigonometric identities were key to solving the various internal forces seamless without overspending time calculating specific potential angles between beams. The specific arrangement of these triangles has come about by chance and does not limit this particular design, so it was not considered.   
