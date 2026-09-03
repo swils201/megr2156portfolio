@@ -102,7 +102,9 @@ The top surfaces of these vertical beams served as the sketch surface for the la
 
 This pattern was solution was implemented for the other two diagonal beams, completing the stable truss design. To determine the size of the holes needed for the pin, based off of found minimum pin area, I used SensorOne's online Area to Length calculator, which can be found in resources below. Once found I created extruded cuts at all intersections of the beams and created a matching dimensioned cylindrical pin in another part file. Within an assembly file, these parts were fitted to represent the true state the truss would exist in. I chose to wait to change any density values until the end, where I adjusted the material to A36 Steel, as the originally planned A500 material was not available with the CAD platform. After this, I was able to run and collect the weight analysis on the design, provided below as well.
 
-  
+<img src="FInalBeams.png" width="50%"> 
+
+**View Model Here!** https://drive.google.com/drive/folders/1a5Zx1QCKdAGShUvQn9if_SUfI2M6UP7H?usp=sharing 
 
 <img src="PinFit.png" width="50%">
 <img src="PinFit(2).png" width="50%">
