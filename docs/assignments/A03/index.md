@@ -24,11 +24,11 @@ To determine the length of the structure, I chose and assigned the necessary val
       
 After choosing the thickness (T) to be 1 in, the global variables were used to assign variables for area and length. My initial input of equations did not properly considered thickness, and were adjusted before advancing to CAD modeling. To close out this step, I added the tension elongation equation using the variables created to find the appropriate value for length (L).
   
-<img src="VALUE_ERROR.png" width="50%">     
+<img src="VALUE_ERROR.png" width="50%">-     
   
 *Incorrect Area Equation*  
     
-<img src="FINALVALUES.png" width="50%">  
+<img src="FINALVALUES.png" width="50%">-  
 
 *Shown Above: Corrected Area Equation*  
 
@@ -45,7 +45,7 @@ First, I created the base square forming the cross sectional area using global v
   
 To correct this error, I considered the relationships between the variables in the tension elongation equation. I determined to decrease the length I would need to decrease the height, width, and thickness, while increasing the force. I adjusted these variables within the equation table, resulting in the final beam extrude.
 
-<img src="VALUES_ADJUST.png" width="50%">
+<img src="VALUES_ADJUST.png" width="50%">-
 <img src="VALUE_ASSIGN2.png" width="50%">  
 <img src="BEAMEXTRUDE_FINAL.png" width="50%">  
   
@@ -53,9 +53,21 @@ To correct this error, I considered the relationships between the variables in t
 
 
   
-**To download model click this link: https://drive.google.com/drive/folders/1jlTfqYKWywQRgLVsVZnjPhhra4-ccnbi?usp=sharing**
+**To download model click this link: https://drive.google.com/drive/folders/1jlTfqYKWywQRgLVsVZnjPhhra4-ccnbi?usp=sharing**  
+
+
+
+  
 ## FEA
 
+<img src="STUDY.png" width="50%">
+<img src="FIXTURE.png" width="50%">  
+<img src="FORCE.png" width="50%"> 
 
+<img src="MESH.png" width="50%"> 
+<img src="STRESS.png" width="50%">
+<img src="DISPLACEMENT.png" width="50%">  
+<img src="FOS.png" width="50%">  
 ## Design Reflection
+
 
