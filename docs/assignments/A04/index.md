@@ -76,11 +76,13 @@ To model this design, I used the variables and found b-value equations within th
 
 Closing out the assignment, I translated this 3D Model into a CAD drawing using a 1:1 scale and third angle projection.  
 
-<img src="a4cad.jpg" width="50%"> 
+<img src="a4cad.png" width="50%"> 
 
 ## Lessons Learned
+    
+Through this assignment, I learned how to use maximum stress and deflection to design for strength and stiffness. Solving for those values taught me the importance of assigning variables early and remaining consistent with them. Further, the calculations themselves acted as a connector between specific values and how that presents in a part in the real world. I found the largest lesson of all to be this real world consideration, as some aspects of the features I did not think of realistically at first, and would change in the end.  
   
-Through this assignment, I learned how to use maximum stress and deflection to design for strength and stiffness. Solving for those values taught me the importance of assigning variables early and remaining consistent with them. Further, the calculations themselves acted as a connector between specific values and how that presents in a part in the real world. I found the largest lesson of all to be this real world consideration, as some aspects of the features I did not think of realistically at first, and would change in the end. This assignment took me around 7.5 hours to complete.
+This assignment took me around 7.5 hours to complete.
   
 ## Download My Files  
   
