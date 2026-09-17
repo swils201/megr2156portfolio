@@ -58,14 +58,34 @@ Assumed and given values were then inputted in the above formulas and numerical 
 Below is the resulting b<sub>min(2)</sub> value, which will be used in design.  
   
 <img src="bmin2.jpg" width="50%">  
+  
+
 
   
-## Design Sketch
-
 ## CAD Model
 
+To model this design, I used the variables and found b-value equations within the Equations property of the platform to begin parametric modeling. These dimensions were then used to create the basic geometry, extrudes, and cuts found in the part. For this assignment, distance between the wall mounting bolt holes must be chosen, and within this model I chose a 15.0 mm y-distance and a 16.0 mm x distance between each. Otherwise, all dimensions are assigned to those found in the design calculations
+
+  
+**Visuals:**  
+  
+<img src="Screenshot 2026-09-17 035235.png" width="50%">  <img src="Screenshot 2026-09-17 054205.png" width="50%">  <img src="Screenshot 2026-09-17 054447.png" width="50%">  <img src="Screenshot 2026-09-17 054539.png" width="50%">  <img src="Screenshot 2026-09-17 054637.png" width="50%">  <img src="Screenshot 2026-09-17 054732.png" width="50%">  <img src="Screenshot 2026-09-17 054830.png" width="50%">  <img src="Screenshot 2026-09-17 055817.png" width="50%">  <img src="Screenshot 2026-09-17 060112.png" width="50%">  <img src="Screenshot 2026-09-17 060339.png" width="50%">  <img src="Screenshot 2026-09-17 061009.png" width="50%">  <img src="Screenshot 2026-09-17 061020.png" width="50%">  <img src="Screenshot 2026-09-17 031139.png" width="50%">  
+  
+  
 ## CAD Drawing
 
+Closing out the assignment, I translated this 3D Model into a CAD drawing using a 1:1 scale and third angle projection.  
+
+<img src="a4cad.jpg" width="50%"> 
+
+## Lessons Learned
+  
+Through this assignment, I learned how to use maximum stress and deflection to design for strength and stiffness. Solving for those values taught me the importance of assigning variables early and remaining consistent with them. Further, the calculations themselves acted as a connector between specific values and how that presents in a part in the real world. I found the largest lesson of all to be this real world consideration, as some aspects of the features I did not think of realistically at first, and would change in the end. This assignment took me around 7.5 hours to complete.
+  
+## Download My Files  
+  
+Check out this link: https://drive.google.com/drive/folders/1P2uVFj1ZMD7Da951ZIxEp3W2Z7jV3CTM?usp=sharing
+  
 ## Resources  
 
 - https://www.additive-x.com/shop/media/mageplaza/product_attachments/attachment_file/u/l/ultimaker-petg-tds-v1.00.pdf
