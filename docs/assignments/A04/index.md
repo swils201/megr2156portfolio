@@ -7,10 +7,12 @@
   
 ## Feature 1
 
-To begin this project, I began with feature 1, or the feature which is attached to the motor. I chose to begin with the free body diagram, as I had an easier time visualizing the sense of dimensions that way. In this free body diagram I chose to identify the variables that will be used throughout the process of this design.  
+To begin this project, I began with feature 1, or the feature which is attached to the motor. I chose to begin with the free body diagram, as I had an easier time visualizing the sense of dimensions that way. In this free body diagram I chose to identify the variables that will be used throughout the process of this design. 
   
 <img src="FBDF1.jpg" width="50%">
-   
+
+After this process, I made the design decision to model this part for PETG material, using values within the Ultimaker PETG data sheet. The maximum Youngs modulus and Yield Strength in the XY direction are used throughout both Feature 1 and Feature 2 are taken from this sheet.  
+  
 Once the feature had been visualized and labeled, the variables were assigned to dimensions provided through the motor specifications or assignment details. Next, assumptions were made and documented to simplify the calculations for this assignment. Within these assumptions, two assumptions were made for the height and length of the feature. To make these assumptions, I took into account the existing geometry of the motor, by designing under the length of the shaft and over the diameter of the Gearbox.   
   
 <img src="VariablesF1.jpeg" width="50%"> <img src="AssumF1.jpg" width="50%">  
