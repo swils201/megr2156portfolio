@@ -62,9 +62,9 @@ Below is the resulting b<sub>min(2)</sub> value, which will be used in design.
 
 
   
-## CAD Model
+## CAD Model 
 
-To model this design, I used the variables and found b-value equations within the Equations property of the platform to begin parametric modeling. These dimensions were then used to create the basic geometry, extrudes, and cuts found in the part. For this assignment, distance between the wall mounting bolt holes must be chosen, and within this model I chose a 15.0 mm y-distance and a 16.0 mm x distance between each. Otherwise, all dimensions are assigned to those found in the design calculations
+To model this design, I used the variables and found b-value equations within the Equations property of the platform to begin parametric modeling. These dimensions were then used to create the basic geometry, extrudes, and cuts found in the part. For this assignment, distance between the wall mounting bolt holes must be chosen, and within this model I chose a 15.0 mm y-distance and a 16.0 mm x distance between each. Otherwise, all dimensions are assigned to those found in the design calculations.
 
   
 **Visuals:**  
@@ -72,10 +72,11 @@ To model this design, I used the variables and found b-value equations within th
 <img src="Screenshot 2026-09-17 035235.png" width="50%">  <img src="Screenshot 2026-09-17 054205.png" width="50%">  <img src="Screenshot 2026-09-17 054447.png" width="50%">  <img src="Screenshot 2026-09-17 054539.png" width="50%">  <img src="Screenshot 2026-09-17 054637.png" width="50%">  <img src="Screenshot 2026-09-17 054732.png" width="50%">  <img src="Screenshot 2026-09-17 054830.png" width="50%">  <img src="Screenshot 2026-09-17 055817.png" width="50%">  <img src="Screenshot 2026-09-17 060112.png" width="50%">  <img src="Screenshot 2026-09-17 060339.png" width="50%">  <img src="Screenshot 2026-09-17 061009.png" width="50%">  <img src="Screenshot 2026-09-17 061020.png" width="50%">  <img src="Screenshot 2026-09-17 031139.png" width="50%">  
   
   
-## CAD Drawing
+## CAD and Paper Drawing
 
-Closing out the assignment, I translated this 3D Model into a CAD drawing using a 1:1 scale and third angle projection.  
+Closing out the assignment, I translated this 3D Model into a CAD drawing using a 1:1 scale and third angle projection. A paper sketch in isometric view is provided below as well.  
 
+<img src="IMG_6308.jpeg" width="50%"> 
 <img src="a4cad.png" width="50%"> 
 
 ## Lessons Learned
