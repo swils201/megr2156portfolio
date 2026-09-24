@@ -15,7 +15,7 @@
   
 To begin the analysis for this bracket design, I began by documenting the concept design provided and other provided or decided base parameters which the design would be built off of. Within this concept design is the breakdown of features and measurements of the rigid T-beam that the bracket must affix to. I chose to use Titanium as the material for this project because I have not done so so far in this class.
   
-<img src="IMG_0383.png" alt="Concept Design & Parameters" width="50%"> 
+<img src="IMG_0382.jpg" alt="Concept Design & Parameters" width="50%"> 
   
 **Stress Analysis**
   
@@ -72,19 +72,25 @@ To close out the analysis, Feature E is analyzed to find the minimum thickness u
   
 To begin designing a link, I first translated the Linkage Concept to a FBD diagram which includes the overall force of the strap. I dimensioned the area of the design which has the least cross sectional area, based off found measurements from earlier analysis. For the fit of the link to Feature A, I determined from the machinery's handbook that to create a RC Fit a +0.0003 in allowance would need to be created. For the LT fit for the shaft an allowance of +0.0008 in is needed.  
   
-<img src="IMG_0395.jpg" width="50%">   
+<img src="CamScanner 9-24-26 06.20.jpg" width="50%">   
 (p.658)
-<img src="IMG_0395.jpg" alt="RC" width="50%">  
+<img src="CamScanner 9-24-26 03.31.jpg" alt="RC" width="50%">  
 (p.654-655)
-
-<img src="IMG_0397.jpg" alt="LINK" width="50%"> 
-
-Lastly, stiffness is verified.
-<img src="IMG_0398.jpg" alt="LINK" width="50%"> 
-
-
-## Communicate
   
-Lessons Learned:  
+<img src="IMG_0397.jpg" alt="LINK" width="50%"> 
+   
+Lastly, stiffness is verified.    
+<img src="IMG_0398.jpg" alt="LINK" width="50%"> 
+  
+  
+## Communicate
+    
+Lessons Learned: For Feature A, the stress governed the final dimension the resulting radius was larger than that for stiffness. One instance that led to an error in my calculations and had to be corrected were random variables which got missed when documenting the formulas. I assumed Titanium which has a lower Modulus than some of the other options provided and a higher Yield Strength. This significantly affected my stress values, so if the assumption were incorrect, the values would be as well.  
+  
+**Resources:**
+  
+- Machinery's Handbook
+- https://www.uline.com/Product/Detail/S-12925/Poly-Cord-Strapping/Heavy-Duty-Polyester-Cord-Strapping-3-4-x-2500?pricode=WA9239&gadtype=pla&id=S-12925
+- https://maher.com/media/pdfs/ti-6al-4v-datasheet-rev-01.pdf
 
 
