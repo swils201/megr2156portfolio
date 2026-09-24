@@ -1,9 +1,9 @@
-# A5 – [Topic]
+# A5 – Design for Strength And Stiffness (1)
 
 ## Objectives
     
 - Conduct stress analysis to determine appropriate dimensions for structural features.
-- Generate free body diagrams (FBDs) to visualize forces and constraints for each feature.\
+- Generate free body diagrams (FBDs) to visualize forces and constraints for each feature.
 - Identify and document known and unknown variables, assumptions, and algebraic models for stress calculations.
 - Perform stiffness analysis to establish minimum required dimensions based on deflection constraints.
 - Compare stress and stiffness analyses to ensure structural integrity and compliance with given constraints.
@@ -72,15 +72,15 @@ To close out the analysis, Feature E is analyzed to find the minimum thickness u
   
 To begin designing a link, I first translated the Linkage Concept to a FBD diagram which includes the overall force of the strap. I dimensioned the area of the design which has the least cross sectional area, based off found measurements from earlier analysis. For the fit of the link to Feature A, I determined from the machinery's handbook that to create a RC Fit a +0.0003 in allowance would need to be created. For the LT fit for the shaft an allowance of +0.0008 in is needed.  
   
-<img src="LT" width="50%">   
+<img src="IMG_0395.jpg" width="50%">   
 (p.658)
-<img src="URL_HERE" alt="RC" width="50%">  
+<img src="IMG_0395.jpg" alt="RC" width="50%">  
 (p.654-655)
 
-<img src="URL_HERE" alt="LINK" width="50%"> 
+<img src="IMG_0397.jpg" alt="LINK" width="50%"> 
 
 Lastly, stiffness is verified.
-<img src="URL_HERE" alt="LINK" width="50%"> 
+<img src="IMG_0398.jpg" alt="LINK" width="50%"> 
 
 
 ## Communicate
