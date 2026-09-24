@@ -65,8 +65,8 @@ To close out the analysis, Feature E is analyzed to find the minimum thickness u
   
 ## Multiview Sketches
   
-<img src="URL_HERE" alt="Stress Design" width="50%"> 
-<img src="URL_HERE" alt="Stiffness Design" width="50%">
+<img src="IMG_0395.jpg" alt="Stress Design" width="50%"> 
+<img src="IMG_0396.jpg" alt="Stiffness Design" width="50%">
 
 ## Fits
   
