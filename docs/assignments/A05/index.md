@@ -15,29 +15,29 @@
   
 To begin the analysis for this bracket design, I began by documenting the concept design provided and other provided or decided base parameters which the design would be built off of. Within this concept design is the breakdown of features and measurements of the rigid T-beam that the bracket must affix to. I chose to use Titanium as the material for this project because I have not done so so far in this class.
   
-<img src="URL_HERE" alt="Concept Design & Parameters" width="50%"> 
+<img src="IMG_0383.png" alt="Concept Design & Parameters" width="50%"> 
   
 **Stress Analysis**
   
 To begin analyzing the bracket part, I drew a free-body diagram of Feature A, where I decided the length of the feature. To make this decision, I determined it would need to be larger than the width of the polyester strapping which is sized at 3/4". To find the reactionary force applied from Feature B and the minimum radius of the part the relationship between the Moment, yield strength and safety factor, normal stress, and Section Moduli are used to determine the appropriate formula. 
 
-<img src="URL_HERE" alt="Feature A Stress Design" width="50%"> 
+<img src="IMG_0384.jpg" alt="Feature A Stress Design" width="50%"> 
   
 Next, I analyzed the free-body diagram of Feature B, with the found force and reactionary force from Feature C in view. The diameter of Feature A directly determines the width of Feature B. For this part, I chose an overall length of 0.9" to attempt to keep proportional similarities with the concept design. To determine the thickness I used the relationship between the yield strength, safety factor, normal stress and area. To finish defining the part the reactionary force was determined.
   
-<img src="URL_HERE" alt="Feature B Stress Design" width="50%"> 
+<img src="IMG_0385.jpg" alt="Feature B Stress Design" width="50%"> 
   
 The free body diagram of Feature C includes two reactionary forces from Feature D, due to the parts symmetry, and the force and moment of C itself . I chose to dimension the length at 1.3 inches. To define this feature, the moment and thickness about it must be determined. To do this, I began by finding the width of C as a sum of the dimensions provided for the rigid T beam. This measurement can then be used to compare the relationships between yield strength and the safety factor, the moment, the internal moment of inertia for a rectangular beam, and the Section Moduli to find the minimum thickness. 
   
-<img src="URL_HERE" alt="Feature C Stress Design" width="50%"> 
+<img src="IMG_0386.jpg" alt="Feature C Stress Design" width="50%"> 
   
 Although the reactionary forces for Feature D exists in two places on Feature C, on the part itself, there is only one force caused by it with the other from the Feature E. The thickness is equivalent to the "c" measurement of the rigid T beam. The length is equivalent to the length of Feature C, leaving the only unknown values to be the Reaction E and the width. The relationship between normal stress, area and force, yield strength, and the safety are used to determine this length, while the static equilibrium equations suffice for the reaction. 
   
-<img src="URL_HERE" alt="Feature D Stress Design" width="50%"> 
+<img src="IMG_0387.jpg" alt="Feature D Stress Design" width="50%"> 
   
 On Feature E, there is only a moment and force acting on the part. This force has been predetermined and the length and width are found, leaving the thickness unknown. The relationship between moments, normal stress, and the Section Moduli are used to determine this unknown value. 
   
-<img src="URL_HERE" alt="Feature E Stress Design" width="50%"> 
+<img src="IMG_0388.jpg" alt="Feature E Stress Design" width="50%"> 
   
 **Stiffness Analysis**
   
