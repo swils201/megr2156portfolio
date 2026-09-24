@@ -45,23 +45,23 @@ To begin the stiffness analysis a similar process is used.
   
 Again, I began with Feature A and translated any unaffected dimensions to to the FBD> The maximum deformation for a fixed beam with a uniform load is then used to find the minimum radius designed for strength.
   
-<img src="URL_HERE" alt="Feature A Stiffness Design" width="50%"> 
+<img src="IMG_0389.jpg" alt="Feature A Stiffness Design" width="50%"> 
   
 For Feature B, calculations are more simplified and the basic relationship between force, length, the Youngs Modulus, and Area are used to determine the unknown thickness.
   
-<img src="URL_HERE" alt="Feature B Stiffness Design" width="50%"> 
+<img src="IMG_0390.jpg" alt="Feature B Stiffness Design" width="50%"> 
   
 In Feature C's calculations the beam is fixed at both ends so the corresponding maximum deformation formula is used with the rectangular shape of the feature kept in mind through the Moment of Inertia formula used.
   
-<img src="URL_HERE" alt="Feature C Stiffness Design" width="50%"> 
+<img src="IMG_0391.jpg" alt="Feature C Stiffness Design" width="50%"> 
   
 Feature D has similar calculations to Feature B with the exception that the thickness is used rather than the length in the maximum deformation equation. This formula is used to determine the minimum width of the part.  
   
-<img src="URL_HERE" alt="Feature D Stiffness Design" width="50%"> 
+<img src="IMG_0392.jpg" alt="Feature D Stiffness Design" width="50%"> 
   
 To close out the analysis, Feature E is analyzed to find the minimum thickness using the maximum deformation and Moment of Inertia equations.   
   
-<img src="URL_HERE" alt="Feature E  Stiffness Design" width="50%"> 
+<img src="IMG_0393.jpg" alt="Feature E  Stiffness Design" width="50%"> 
   
 ## Multiview Sketches
   
