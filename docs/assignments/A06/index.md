@@ -53,16 +53,22 @@ The modeling process for this part was very similar to the bracket. Some previou
   
 To produce the CAD drawing for the linkage part I followed a third angle projection layout and the ASME Y14.5 standards requested for the assignment. Unique edits for this goal included the addition of geometric dimensioning which include the range of clearance based on diameter. Additional information regarding design, including a small note identifying the ideal fit between the link and bracket, was added to complete the drawing.  
   
-**<img src="A6_LINKAGE15.png" alt="Description" width="30%">  
+<img src="A6_LINKAGE15.png" alt="Description" width="30%">  
   
 ## Communicate
 This assignment, overall, took around 6-7 hours to complete.  
 
 #### Reflections from Bracket
 
+**<img src="A6REFLECT.png" alt="Description" width="100%">  
+The parameter T-B dimensions the thickness of component B within the bracket. The definition assigned to it is an equation that expresses the relationship between forces and normal stress. This calculation remained from design to modeling. 
+
+
 #### Reflections from Linkage
   
-Through this assignment I learned that the tolerance and clearance of a part directly determines the specific part to part compatibility found between two parts. To accurately design parts which are mated together, it is important to always consider clearance, to reflect true part behavior. Without sliding clearance for the Linkage, the designed Bracket would not be held onto the structure.  
+Through this assignment I learned that the tolerance and clearance of a part directly determines the specific part to part compatibility found between two parts. To accurately design parts which are mated together, it is important to always consider clearance, to reflect true part behavior. Without sliding clearance for the Linkage, the designed Bracket would not be held onto the structure. 
+
+Although I applied the tightest tolerance across the drawing by default, in reflection, simple parts could have been less specified, as the dimensions are not as essential to function. In manufacturing, this choice would have increased cost in order to meet this tolerance and the part would be difficult to reproduce.
   
     
 #### Resources  
