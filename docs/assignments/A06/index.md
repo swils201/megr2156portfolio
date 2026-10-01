@@ -56,12 +56,14 @@ To produce the CAD drawing for the linkage part I followed a third angle project
 **<img src="A6_LINKAGE15.png" alt="Description" width="30%">  
   
 ## Communicate
-  
-#### Reflections  
+This assignment, overall, took around 6-7 hours to complete.  
+
+#### Reflections from Bracket
+
+#### Reflections from Linkage
   
 Through this assignment I learned that the tolerance and clearance of a part directly determines the specific part to part compatibility found between two parts. To accurately design parts which are mated together, it is important to always consider clearance, to reflect true part behavior. Without sliding clearance for the Linkage, the designed Bracket would not be held onto the structure.  
   
-This assignment took around 6-7 hours to complete.  
     
 #### Resources  
   
