@@ -1,9 +1,11 @@
 # A6 – [Topic]
 
-## Objective
+
+## Parametric Design of Bracket
+
+To begin modeling last weeks bracket design I began by creating a table of found values and identifying the highest of each for the components making up the part. For all except the thickness of part C, the values found for stress analysis were higher. Therefore, I used these highest values as my decided dimensions for parametric design.
 
 
-## Analyze
 
 
 ## Decide
