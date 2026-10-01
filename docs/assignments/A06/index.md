@@ -1,4 +1,4 @@
-# A6 – [Topic]
+# A6 – Bracket Drawing
 
 
 ## Parametric Design of Bracket
@@ -47,13 +47,13 @@ The modeling process for this part was very similar to the bracket. Some previou
 
 #### Linkage Model Visuals
     
-<img src="A6LINKAGE1.png" alt="Description" width="30%"> <img src="A6LINKAGE52.png" alt="Description" width="30%"> <img src="A6LINKAGE3.png" alt="Description" width="30%"> <img src="A6LINKAGE4.png" alt="Description" width="30%"> <img src="A6LINKAGE5.png" alt="Description" width="30%"> <img src="A6LINKAGE6.png" alt="Description" width="30%"> <img src="A6LINKAGE7.png" alt="Description" width="30%"> <img src="A6LINKAGE8.png" alt="Description" width="30%"> <img src="A6LINKAGE9.png" alt="Description" width="30%"><img src="A6LINKAGE11.png" alt="Description" width="30%">  
+<img src="A6LINKAGE1.png" alt="Description" width="30%"> <img src="A6LINKAGE2.png" alt="Description" width="30%"> <img src="A6LINKAGE3.png" alt="Description" width="30%"> <img src="A6LINKAGE4.png" alt="Description" width="30%"> <img src="A6LINKAGE5.png" alt="Description" width="30%"> <img src="A6LINKAGE6.png" alt="Description" width="30%"> <img src="A6LINKAGE7.png" alt="Description" width="30%"> <img src="A6LINKAGE8.png" alt="Description" width="30%"> <img src="A6LINKAGE9.png" alt="Description" width="30%"><img src="A6LINKAGE11.png" alt="Description" width="30%">  
   
 ## Linkage Drawing
   
 To produce the CAD drawing for the linkage part I followed a third angle projection layout and the ASME Y14.5 standards requested for the assignment. Unique edits for this goal included the addition of geometric dimensioning which include the range of clearance based on diameter. Additional information regarding design, including a small note identifying the ideal fit between the link and bracket, was added to complete the drawing.  
   
-**<img src="A6LINKAGE15.png" alt="Description" width="30%">  
+**<img src="A6_LINKAGE15.png" alt="Description" width="30%">  
   
 ## Communicate
   
