@@ -46,7 +46,28 @@ In this final static study, the last geometry change was shown to lessen all val
 <img src="IMG_0474.jpeg" alt="Alt text" width="50%">
     
 <img src="Screenshot 2026-10-22 081027.png" alt="Alt text" width="50%">
+
+## Visuals From CAD Process Overall
+
+<img src="A7_SETUP.png" alt="Alt text" width="50%">
   
+
+<img src="A7_FUXED.png" alt="Alt text" width="50%">
+
+<img src="A7_CUT.png" alt="Alt text" width="50%">
+
+
+<img src="GEOMETRY EDITION 1.png" alt="Alt text" width="50%">
+
+<img src="FINALGEOMETRY.png" alt="Alt text" width="50%">
+
+
+<img src="LINK WITH FILLETS.png" alt="Alt text" width="50%">
+
+
+<img src="LINE THICKNESS INCREASES.png" alt="Alt text" width="50%">
+    
+
 ## CAD Links and Lessons Learned
   
 This project was my first experience using a finite element method to dictate CAD modeling. The major lesson I pulled away was the importance of organized documentation, more so than is necessary with parametric modeling for example. Without tables, color coding, or another organization system, and multiple pieces of data, it would be difficult to make a sound design decision. Beyond this, it taught me visually how easily design decisions can change the state of the part and therefore, its ability to function. This lesson demonstrated the variation that can be seen across mesh sizes and highlighted the importance of comparing results from multiple.
