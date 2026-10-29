@@ -70,9 +70,9 @@ The last unknown minimums remaining are the thickness of each journal bearing. T
   
 Using the McMaster link provided through Canvas, I was able to filter the bearings to the closest rounded up known measurements. From those results, I chose bearings which could remain otherwise similar in dimension for consistency in the final model. Resulting from this filter, I determined an output bearing at 1/4" diameter and 1/4" length and a 1/8" diameter and 1/4" length input bearing is most ideal based on found measurements.
   
-**Input Bearing:** Dry Running Nylon Sleeve Bearing (6389K1)
+**Input Bearing:**  Dry Running Nylon Sleeve Bearing (6389K1)
   
-**Output Bearing:** Dry Running Nylon Sleeve Bearing (6389K352)
+**Output Bearing:**  Dry Running Nylon Sleeve Bearing (6389K352)
   
 Resources:
 -  https://www.mcmaster.com/6389K352/
@@ -103,37 +103,46 @@ Next, I saved a copy of that existing half, and removed the shaft/bearing holes 
 Then, I created a new global equation table for a shaft model, ensuring to add the found diameters for both. I modeled one at a time using the same technique of reusing a copy of the model, this time changing the value assignment for the diameter. 
   
 <img src="A8PARA2.png" alt="Description of image" style="width: 50%;">
-  
+   
 The modeling process is concluded with a final assembly which includes the bearings chosen and the gears given for the assignment. During this assembly, I realized a small repair would be needed to the sketch, as I added the clearance I intended for the walls to the distance between gears instead.
-
-_Repair:_  
-  
+   
+_Repair:_   
+   
 <img src="A8REPAIR1.png" alt="Description of image" style="width: 50%;">
 <img src="A8REPAIR2.png" alt="Description of image" style="width: 50%;">
-
-_Final Assembly:_
   
+_Final Assembly:_  
+    
 <img src="A8FINALASSEMBLY.png" alt="Description of image" style="width: 50%;">
-  
-  
+    
+    
 ## Drawings
-
+  
+<img src="DRAWINGSS.png" alt="Description of image" style="width: 50%;">
+<img src="DRAWINGSS1.png" alt="Description of image" style="width: 50%;">
+<img src="DRAWINGSS2.png" alt="Description of image" style="width: 50%;">
+<img src="DRAWINGSS3.png" alt="Description of image" style="width: 50%;">
+<img src="DRAWINGSS4.png" alt="Description of image" style="width: 50%;">
+<img src="DRAWINGSS5.png" alt="Description of image" style="width: 50%;">
+<img src="DRAWINGSS6.png" alt="Description of image" style="width: 50%;">
+  
 ## Lessons Learned
   
 This assignment brought to my attention the intricacy of seemingly simple designs. A main lesson I will takeaway is the importance of considering all elements which will affect a design and how those elements interact or determine each other. Before this, I did not have an understanding of how gears are used to transfer power through mechanical structures using shafts.
   
-This assignment took a total of 13 hours. 
+This assignment took a total of 14 hours. 
   
 ## Resources and Files
    
-**Resources:**  
+**Resources:**   
   
 -  https://www.mcmaster.com/6389K352/
 -  https://www.mcmaster.com/6389K1/
 -  https://www.aiplastics.com/media/amari/datasheets/Nylon-66%20Datasheet.pdf
 -  https://drive.google.com/file/d/0B_9_QFV-DZ-yeS1wdE1jTXZ0RDQ/view?resourcekey=0-yk9DIEwAd5PoV_KUHUflqg
   
-**Download My Files:**  
+**Download My Files:**   
+
 https://drive.google.com/drive/folders/1DXUQTYHNJb_Bh53hnbBHslK1wRyabdKq?usp=sharing
 
 
