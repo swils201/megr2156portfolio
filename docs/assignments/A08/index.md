@@ -82,7 +82,7 @@ Resources:
 
 ## CAD Model - Gearbox
   
-To begin the CAD model, I started with one half of the gearbox. I input inner and pitch diameters within the global equations. I used these measurements to create tangent circles which will be used to create the center lines, directing the shaft/bearing holes. There is clearance between the intended pitch diameters and the walls of the design to avoid friction. 
+To begin the CAD model, I started with one half of the gearbox. Material is chosen to AISI 1020 Steel for all self-modeled parts.  I input inner and pitch diameters within the global equations. I used these measurements to create tangent circles which will be used to create the center lines, directing the shaft/bearing holes. There is clearance between the intended pitch diameters and the walls of the design to avoid friction. 
   
 <img src="A8PARA1.png" alt="Description of image" style="width: 50%;">
 <img src="A8CAD1.png" alt="Description of image" style="width: 50%;">
