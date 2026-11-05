@@ -17,7 +17,9 @@ Within these values, it should be noted that I chose to assume the material was 
 I chose to keep the dimensions of the belt as close as possible to the found values. The true chosen specifications are a overall circumference of 18 1/4" and diameter at 3/32".
 
 **Belt Chosen:**
-
+  
+<img src="Screenshot 2026-11-05 070417.png" width="50%" alt="Description of picture">
+  
 _Resource: https://www.mcmaster.com/3044K602-3044K699/_
 
 
@@ -44,11 +46,23 @@ These values are used to find the PV rating, which I used to choose an appropria
 ## Engineering Analysis for Frame
 
 To begin the design for the frame I began with a simple sketch which assigns a variable to the measurement most important to the function of the design, or the shaft hole. The true diameter noted is based upon the found minimum shaft diameter. I set this measurement to be 0.5". The center length chosen is also notated in this sketch. 
-
+  
 This model was then transitioned to CAD, closing out the project. 
 
+**Visuals:**  
+  
+<img src="Screenshot 2026-11-05 044654.png" width="50%" alt="Description of picture">
+<img src="Screenshot 2026-11-05 044712.png" width="50%" alt="Description of picture">
+<img src="Screenshot 2026-11-05 044745.png" width="50%" alt="Description of picture">
+<img src="Screenshot 2026-11-05 044804.png" width="50%" alt="Description of picture">
+<img src="Screenshot 2026-11-05 044824.png" width="50%" alt="Description of picture">
+<img src="Screenshot 2026-11-05 044839.png" width="50%" alt="Description of picture">
+<img src="Screenshot 2026-11-05 044858.png" width="50%" alt="Description of picture">
 
+  
+**Download my Part:** https://drive.google.com/drive/folders/1GgCj_r1WnCjaYqdxjTpEtIHGd-omNRCY?usp=sharing
+   
 ## Lessons Learned
-
+  
 For me, the largest lesson learned from this assignment was to do with the Dynamic analysis portion. This was my first exposure, and I have gained an understanding of the benefit analyzing a system at different stages. Additionally, I was able to truly recognize the connection between chain dimensioning and interconnected analysis such as what was used here. To truly consider a system of parts, analysis must consider their connection as well. Lastly, I was not aware of tight and loose side of the wheel which allows the pulley system to function.
 
