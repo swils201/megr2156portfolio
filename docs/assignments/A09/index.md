@@ -55,7 +55,7 @@ These values are used to find the PV rating, which I used to choose an appropria
 **Calculations:**  
 
 <img src="BEARING1.jpg" width="50%" alt="Description of picture">
-<img src="BEARING2.jpg" width="50%" alt="Description of picture">
+<img src="BEARING 2.jpg" width="50%" alt="Description of picture">
   
 
 
