@@ -6,13 +6,18 @@ This week, I am designing a pulley system and frame through consideration of fri
 ## Selecting the Belt
 
 Before beginning flexible belt analysis, I began by drawing a free body diagram of the forces acting on a single wheel and the pully system in cross sectional area . Additionally, variables for measurements which will be used throughout analysis are defined. I decided to define these variables here, including, but not limited to, the center distance, the material, the safety factor, etc. Belt values are recorded alongside wheel values.
-
+  
+<img src="OGA9.jpg" width="50%" alt="Description of picture">
+  
 Starting the static analysis of the belt I drew of a singular cross sect a single pulley wheel. Known and unknown values which are represented in the free body diagram are documented. 
 
 Within these values, it should be noted that I chose to assume the material was the same for the wheel as it was for the shaft to lessen the amount of values taken through research. 1060 steel is a high carbon steel, so the friction coefficient used in calculation is for the interaction between rubber and tool steels. To find the individual forces acting on the wheel, minimum cross sectional area, and circumference of the belt, stress and force and friction relations are used to solve.
 
-**Calculations:**
-
+**Calculations:**  
+<img src="BELT1.jpg" width="50%" alt="Description of picture">
+<img src="BELT2.jpg" width="50%" alt="Description of picture">
+<img src="BELT3.jpg" width="50%" alt="Description of picture">
+<img src="BELTFINAL.jpg" width="50%" alt="Description of picture">
 
 I chose to keep the dimensions of the belt as close as possible to the found values. The true chosen specifications are a overall circumference of 18 1/4" and diameter at 3/32".
 
@@ -33,7 +38,11 @@ Torsion is defined using force and the geometry of the wheel. This is used along
 
 Geometry limits are then found using these relations.
 
-
+**Calculations:**  
+  
+<img src="SHAFT1.jpg" width="50%" alt="Description of picture">
+<img src="SHAFT2.jpg" width="50%" alt="Description of picture">
+  
 
 ## Designing the Bearing
 
@@ -42,6 +51,13 @@ To begin the analysis to design the bearing I started by creating a color-coded 
 The force on the bearing is used to find the pressure on the area where pressure is applied. Then the chosen velocity of the system from the beginning stages of design is converted from radians to feet per minute. 
 
 These values are used to find the PV rating, which I used to choose an appropriate material through the PV limit chart in the Machinery's Handbook. I chose to define this part in Graphite.
+
+**Calculations:**  
+
+<img src="BEARING1.jpg" width="50%" alt="Description of picture">
+<img src="BEARING2.jpg" width="50%" alt="Description of picture">
+  
+
 
 ## Engineering Analysis for Frame
 
@@ -65,4 +81,6 @@ This model was then transitioned to CAD, closing out the project.
 ## Lessons Learned
   
 For me, the largest lesson learned from this assignment was to do with the Dynamic analysis portion. This was my first exposure, and I have gained an understanding of the benefit analyzing a system at different stages. Additionally, I was able to truly recognize the connection between chain dimensioning and interconnected analysis such as what was used here. To truly consider a system of parts, analysis must consider their connection as well. Lastly, I was not aware of tight and loose side of the wheel which allows the pulley system to function.
+
+**Resource For Yield Strength:** https://www.azom.com/article.aspx?ArticleID=6542 
 
