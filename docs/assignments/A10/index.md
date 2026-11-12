@@ -54,7 +54,7 @@ These dimensions are fairly low due to the choice to use a very strong steel, so
 Total costs of each part our team did not design, but were used in the final assembly,
 were tabulated here.
   
-<img src="L10COSTS.jpg" alt="Description of image" width="50%">   
+<img src="L10COSTS.png" alt="Description of image" width="50%">   
   
 **See the Parts Yourself:** https://docs.google.com/document/d/1bKbhDkLOe-WH6ZnaHG-k7sk0W9YO7X9axeHdGJF9zss/edit?usp=sharing 
 
@@ -64,7 +64,7 @@ were tabulated here.
 Following the initial sketch the dimensions chosen were input into the global equations system in SolidWorks. I chose to leave dimensions which were related to outside parts or which would not be used in the end geometry to be added to the equations throughout the modeling process. This way, variable names are not overly reused, eliminating some confusion.
 
 
-<img src="PARA.png" alt="Description of image" width="50%"> 
+<img src="A10PARA.png" alt="Description of image" width="50%"> 
 The model begins with a rectangle at the base and length determined and is extruded to an inch. 
 
 <img src="A10CAD1.png" alt="Description of image" width="50%"> 
