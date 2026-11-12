@@ -49,6 +49,7 @@ These dimensions are fairly low due to the choice to use a very strong steel, so
   
 ### Initial Paper Drawing  - Saniyah Wilson
 
+
 ### Tabulating Costs - Saniyah Wilson
   
 Total costs of each part our team did not design, but were used in the final assembly,
@@ -89,30 +90,37 @@ Lastly, a cut extrude creates eight holes at half the thickness of the crosshead
   
 <img src="L10FINALCAD.png" alt="Description of image" width="50%"> 
 <img src="L10FINALPARA.png" alt="Description of image" width="50%"> 
-    
+      
 **Download the File:** https://drive.google.com/file/d/1dN-fcCupNEkCIPUpsWeFSNqFMlzsTfWq/view?usp=sharing  
-
+  
 ## FEA 1 Optimization of Crosshead - Saniyah Wilson
-
+  
 Because the results I received from Jack showed both low stress and deformation and a high safety factor, I focused on minor changes which would decrease the overall weight of the part.
-
+  
 I began by chamfering the outer edges of the part at 0.5 in to avoid entirely cutting out the 0.1 inch gap I added between the flange and the shorter side of the part. Next, I created extruded cut which equivalent in diameter to the flanges chosen, so that they sit further within the model. This was cut to an arbitrary height below the height of the mount holes, to hopefully avoid interference there as well.
-
-**Visuals:**
-<img src="L11FEA1.png" alt="Description of image" width="50%"> 
+  
+**Visuals:**  
+  
+<img src="L11FEA.png" alt="Description of image" width="50%"> 
 <img src="L11FEA2.png" alt="Description of image" width="50%"> 
 <img src="L11FEA3.png" alt="Description of image" width="50%"> 
   
 ## Final FEA - Saniyah Wilson
-
+  
 With the revised model finished, I moved into the second round of FEA. I ran the statics study through SolidWorks, representing the force as a center cluster of forces in the center. Both a medium mesh and fine mesh were used for the analysis and the results were compared. This data converged, so I found it unnecessary to continue to make changes to already revised geometry of the crosshead. 
-
-**Results:**  
-
-<img src="A10FEA2.png" alt="Description of image" width="50%"> 
-
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
-
-## Communicate
-
+  
+**Results:** _Table created by Jack Welch_
+  
+<img src="A10FEA2.jpg" alt="Description of image" width="50%"> 
+  
+**Download Final Part:** https://drive.google.com/file/d/1j0eWfDDwDiHvawwkSNXH4fF1OZJwJ8fr/view?usp=sharing
+  
+## Lessons Learned - Saniyah Wilson
+  
+**Time to Finish:** 13 hours.
+  
+Through this assignment, I learned how a lead screw can be used to apply a force to a designed structure. I gained a better understanding of using beam simplifications in a functional design as well. I did not realize that the lead screws could be assumed to act as the supports for the "beam." 
+  
+Additionally, there was insight in the values I found from those calculations. I found an incredibly small minimum height, which I believe was due to the 1090 Steel chosen for the part. In the future, I will more thoroughly consider all elements of the material in connection to the parts function. For this assignment, I was largely focused on strength did not consider the other material properties as closely.
+  
+Finally, in the CAD process, I found that my parametric modeling process worked well and improved my ability to properly track where variables where used throughout the model. In the past I've struggled with similar variable names or entirely missing parametric values. By continuing the parametric process in CAD, no values were missed and names were able to stay unique.
