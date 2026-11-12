@@ -57,7 +57,40 @@ were tabulated here.
 <img src="L10COSTS.jpg" alt="Description of image" width="50%">   
   
 **See the Parts Yourself:** https://docs.google.com/document/d/1bKbhDkLOe-WH6ZnaHG-k7sk0W9YO7X9axeHdGJF9zss/edit?usp=sharing 
+
+## Parametric CAD Model of Crosshead
+### Initial Design
+
+Following the initial sketch the dimensions chosen were input into the global equations system in SolidWorks. I chose to leave dimensions which were related to outside parts or which would not be used in the end geometry to be added to the equations throughout the modeling process. This way, variable names are not overly reused, eliminating some confusion.
+
+
+<img src="PARA.jpg" alt="Description of image" width="50%"> 
+The model begins with a rectangle at the base and length determined and is extruded to an inch. 
+
+<img src="L10CAD1.jpg" alt="Description of image" width="50%"> 
   
+On one side, the hole for the lead screw is designed and mirrored to the other half of the part. Then, a cut extrude is used to remove the material.   
+  
+<img src="L10CAD2.jpg" alt="Description of image" width="50%"> 
+<img src="L10CAD3.jpg" alt="Description of image" width="50%"> 
+<img src="L10CAD4.jpg" alt="Description of image" width="50%"> 
+    
+To create the bore holes for to mount the crosshead to the flange, I used the measurements referenced and created a concentric circle around lead hole. This circle is used to align the holes and then is cut before they are mirrored to the other side.  
+  
+<img src="L10CAD5.jpg" alt="Description of image" width="50%"> 
+<img src="L10CAD6.jpg" alt="Description of image" width="50%">  
+  
+Lastly, a cut extrude creates eight holes at half the thickness of the crosshead. This completes the initial model, which I then passed on to Jack for FEA analysis.  
+  
+<img src="L10CAD7.jpg" alt="Description of image" width="50%">
+<img src="L10CAD8.jpg" alt="Description of image" width="50%"> 
+
+**Final Model and Parametric Values Added**
+  
+<img src="L10FINALCAD.jpg" alt="Description of image" width="50%"> 
+<img src="L10FINALPARA.jpg" alt="Description of image" width="50%"> 
+   
+**Download the File:**
 ## Analyze
 
 
