@@ -89,8 +89,9 @@ Lastly, a cut extrude creates eight holes at half the thickness of the crosshead
   
 <img src="L10FINALCAD.jpg" alt="Description of image" width="50%"> 
 <img src="L10FINALPARA.jpg" alt="Description of image" width="50%"> 
-   
-**Download the File:**
+    
+**Download the File:** https://drive.google.com/file/d/1dN-fcCupNEkCIPUpsWeFSNqFMlzsTfWq/view?usp=sharing  
+  
 ## Analyze
 
 
