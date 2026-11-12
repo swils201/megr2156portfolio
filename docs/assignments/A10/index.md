@@ -49,6 +49,7 @@ These dimensions are fairly low due to the choice to use a very strong steel, so
   
 ### Initial Paper Drawing  - Saniyah Wilson
 
+<img src="A10 Sketch_1.JPG" alt="Description of image" width="50%">
 
 ### Tabulating Costs - Saniyah Wilson
   
