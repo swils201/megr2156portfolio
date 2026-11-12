@@ -58,8 +58,8 @@ were tabulated here.
   
 **See the Parts Yourself:** https://docs.google.com/document/d/1bKbhDkLOe-WH6ZnaHG-k7sk0W9YO7X9axeHdGJF9zss/edit?usp=sharing 
 
-## Parametric CAD Model of Crosshead
-### Initial Design
+## Parametric CAD Model of Crosshead - Saniyah Wilson
+### Initial Design - Saniyah Wilson
 
 Following the initial sketch the dimensions chosen were input into the global equations system in SolidWorks. I chose to leave dimensions which were related to outside parts or which would not be used in the end geometry to be added to the equations throughout the modeling process. This way, variable names are not overly reused, eliminating some confusion.
 
@@ -91,9 +91,25 @@ Lastly, a cut extrude creates eight holes at half the thickness of the crosshead
 <img src="L10FINALPARA.png" alt="Description of image" width="50%"> 
     
 **Download the File:** https://drive.google.com/file/d/1dN-fcCupNEkCIPUpsWeFSNqFMlzsTfWq/view?usp=sharing  
-  
-## Analyze
 
+## FEA 1 Optimization of Crosshead - Saniyah Wilson
+
+Because the results I received from Jack showed both low stress and deformation and a high safety factor, I focused on minor changes which would decrease the overall weight of the part.
+
+I began by chamfering the outer edges of the part at 0.5 in to avoid entirely cutting out the 0.1 inch gap I added between the flange and the shorter side of the part. Next, I created extruded cut which equivalent in diameter to the flanges chosen, so that they sit further within the model. This was cut to an arbitrary height below the height of the mount holes, to hopefully avoid interference there as well.
+
+**Visuals:**
+<img src="L11FEA1.png" alt="Description of image" width="50%"> 
+<img src="L11FEA2.png" alt="Description of image" width="50%"> 
+<img src="L11FEA3.png" alt="Description of image" width="50%"> 
+  
+## Final FEA - Saniyah Wilson
+
+With the revised model finished, I moved into the second round of FEA. I ran the statics study through SolidWorks, representing the force as a center cluster of forces in the center. Both a medium mesh and fine mesh were used for the analysis and the results were compared. This data converged, so I found it unnecessary to continue to make changes to already revised geometry of the crosshead. 
+
+**Results:**  
+
+<img src="A10FEA2.png" alt="Description of image" width="50%"> 
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
