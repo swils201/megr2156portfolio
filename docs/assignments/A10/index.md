@@ -67,12 +67,12 @@ Following the initial sketch the dimensions chosen were input into the global eq
 <img src="PARA.png" alt="Description of image" width="50%"> 
 The model begins with a rectangle at the base and length determined and is extruded to an inch. 
 
-<img src="L10CAD1.png" alt="Description of image" width="50%"> 
+<img src="A10CAD1.png" alt="Description of image" width="50%"> 
   
 On one side, the hole for the lead screw is designed and mirrored to the other half of the part. Then, a cut extrude is used to remove the material.   
   
-<img src="L10CAD2.png" alt="Description of image" width="50%"> 
-<img src="L10CAD3.png" alt="Description of image" width="50%"> 
+<img src="A10CAD2.png" alt="Description of image" width="50%"> 
+<img src="A10CAD3.png" alt="Description of image" width="50%"> 
 <img src="L10CAD4.png" alt="Description of image" width="50%"> 
     
 To create the bore holes for to mount the crosshead to the flange, I used the measurements referenced and created a concentric circle around lead hole. This circle is used to align the holes and then is cut before they are mirrored to the other side.  
